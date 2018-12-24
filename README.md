@@ -8,11 +8,7 @@ What is **Hone.css**?
 
 ## Installation
 
-To get started with **Hone.css**
-
-Download the **Hone.css** file.
-
-include **Hone.css** in the head of your **HTML**
+To get started with **Hone.css** download the **Hone.css** file, and include **Hone.css** in the head of your **HTML**.
 
 ```HTML
 <head>
@@ -21,6 +17,8 @@ include **Hone.css** in the head of your **HTML**
 ```
 
 ## Getting Started
+
+**Hone.css** was created to experiment with cutting edge CSS features.
 
 ## Roadmap
 
